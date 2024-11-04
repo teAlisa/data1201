@@ -13,9 +13,11 @@ There is lots of subjects that has one letter differece - mistakes, because of i
 #### What year occurs the least number of times?
 1993
 ### Question 4: What happens when you make a numerical facet of column note1, then convert the column to numbers? Is something different about the facet compared to yr?
-
+When we are taking the facet of column none1 we will see 0 choices, but after converting values to the numbers we can see a diagram the same as for year.
+I think that the main difference is that we can filter the rows with the blank values in the note1 columns.
 ### Question 5: Click and drag on the scatterplot facet you made to highlight a rectangle. What happens to the data points being displayed?
-
+This way I can filter the rows in my table. I will see the only rows with the points that covered by rectangle. 
 # Questions for Post-Lab Assignment 10!
 
 ### Question 6: After the last step, some columns are empty. (You can check by text faceting a column) Why? What do you think we can do to fix it?
+I think this happened because some cells contain unnecessary spaces. We set our delimiter to " ", so it splits each space into its own column. We can fix this if we remove all unnecessary spaces.
