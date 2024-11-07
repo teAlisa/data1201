@@ -6,6 +6,6 @@ if you were instead trying to see all of your entries in chronological order?
 I would apply numeric sort to the month, day and year columns.
 ##question2
 What is the major benefit of reconciliation? What did reconciliation do?
-our 
+
 The major benefit of reconciliation is that we can clean our data, fix spelling and connect our data 
-with with existyion data set.
+with with a set of existing data.
